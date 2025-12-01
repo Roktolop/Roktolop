@@ -8,7 +8,6 @@ Familiar with Git and GitHub, including basic teamwork through Pull Requests. Ha
 </h2>
 
 <h2 align="center">🧰 Tech Stack</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -20,7 +19,7 @@ Familiar with Git and GitHub, including basic teamwork through Pull Requests. Ha
 </p>
 
 
-<h2>💻Featured Projects </h2>
+<h2 align="center">💻Featured Projects </h2>
 # Node.js HW 🧪
 https://github.com/Roktolop/nodejs-hw/tree/05-mail-and-img
 
