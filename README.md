@@ -7,11 +7,6 @@ Back-end developer with  experience in JavaScript, Node.js, Express, and MongoDB
 Familiar with Git and GitHub, including basic teamwork through Pull Requests. Have a general understanding of REST API principles and back-end structure. Focused on learning best practices, writing clean code, and gradually building more stable and scalable solutions.
 </h2>
 <h2>🧰 Tech Stack  </h2>
-Example.
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 
-🧷  For plastic
-https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic
-
-🤏🏽  For Flat
-https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 
